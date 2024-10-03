@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\bin\Debug\net8.0\Classes-e-Outros-Tipos.exe
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\bin\Debug\net8.0\Classes-e-Outros-Tipos.deps.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\bin\Debug\net8.0\Classes-e-Outros-Tipos.runtimeconfig.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\bin\Debug\net8.0\Classes-e-Outros-Tipos.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\bin\Debug\net8.0\Classes-e-Outros-Tipos.pdb
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\refint\Classes-e-Outros-Tipos.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.pdb
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\Classes-e-Outros-Tipos.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Classes-e-Outros-Tipos\obj\Debug\net8.0\ref\Classes-e-Outros-Tipos.dll
