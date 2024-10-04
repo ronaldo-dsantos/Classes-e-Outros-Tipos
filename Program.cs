@@ -3,7 +3,8 @@
 //AulaHeranca();
 //AulaClasseSelada();
 //AulaClasseAbstrata();
-AulaRecord();
+//AulaRecord();
+AulaInterface();
 
 void AulaClasses()
 {
@@ -106,4 +107,15 @@ void AulaRecord()
   var cursoTeste03 = curso03 with { Descricao = "Teste Record" }; // Copiando os valores da instancia curso 03 alterando apenas o atributo descrição
   Console.WriteLine(curso03.Descricao);
   Console.WriteLine(cursoTeste03.Descricao);
+}
+
+void AulaInterface()
+{  
+  var notificacaoCliente = new Cadastro.NotificacaoCliente();
+  notificacaoCliente.Notificar();
+  notificacaoCliente.NotificarOutros();
+
+  Cadastro.INotificacao notificacao = new Cadastro.NotificacaoFuncionario(); // Criando a instancia de um objeto e atribuindo para o interface
+  notificacao.Notificar();
+  //notificacao.NotificarOutros(); // Desta forma não conseguimos acessar o que foi criado fora da interface
 }

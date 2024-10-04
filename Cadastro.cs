@@ -150,5 +150,40 @@ namespace Cadastro
     public int Id { get; set; }
     public string Descricao { get; set; }
   }
+
+  // Interface (Interface pode ser definida como a espécie de um contrato, onde iremos definir as operações as quais um objeto será obrigado a implementar)
+  public interface INotificacao
+  {
+    string Descricao { get; set; }
+    void Notificar();
+  }
+
+  public class NotificacaoCliente : INotificacao // Classe implementando Interface
+  {
+    public string Descricao { get; set; }
+
+    public void Notificar()
+    {
+      Console.WriteLine("Notificando cliente");
+    }
+    public void NotificarOutros()
+    {
+      Console.WriteLine("Notificando outros");
+    }
+  }
+  public class NotificacaoFuncionario : INotificacao // Classe implementando Interface
+  {
+    public string Descricao { get; set; }
+
+    public void Notificar()
+    {
+      Console.WriteLine("Notificando funcionário");
+    }
+
+    public void NotificarOutros()
+    {
+      Console.WriteLine("Notificando outros");
+    }
+  }
 }
 
